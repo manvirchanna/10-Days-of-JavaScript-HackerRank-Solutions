@@ -22,6 +22,7 @@ function readLine() {
     return inputString[currentLine++];
 }
 
+
 /**
 *   The variables 'firstInteger', 'firstDecimal', and 'firstString' are declared for you -- do not modify them.
 *   Print three lines:
